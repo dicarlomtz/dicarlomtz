@@ -1,7 +1,7 @@
 ## Hi there, my name is Di Carlo Martínez and I am from Costa Rica!
 <p>Computer systems engineering last year student, passionate about achieving goals with the help of different work tools that guarantee success efficiently, improving and acquiring skills while I grow professionally with each challenge.</p>
 <div align="center">
- <img  style="border-radius:50%" width="200px" src="https://avatars.githubusercontent.com/u/58798908?v=4"/>
+ <img  style="border-radius:50%" width="200px" src=""/>
   
   <div>
     Check my portfolio:
