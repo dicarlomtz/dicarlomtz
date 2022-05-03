@@ -1,7 +1,7 @@
 ## Hi there, my name is Di Carlo Martínez and I am from Costa Rica!
 <p>Computer systems engineering last year student, passionate about achieving goals with the help of different work tools that guarantee success efficiently, improving and acquiring skills while I grow professionally with each challenge.</p>
 <div align="center">
- <img  style="border-radius:50%" width="200px" src=""/>
+ <img  style="border-radius:50%" width="200px" src="https://avatars.githubusercontent.com/u/67888776?v=4"/>
   
   <div>
     Check my portfolio:
@@ -35,7 +35,7 @@
   ##
  
 <div align="center"> 
-  <a href="https://twitter.com/dicarlomtz" target="_blank"><img src="https://icongr.am/devicon/twitter-original.svg?size=128&color=currentColor" target="_blank"></a>
+  <a href="https://twitter.com/dicarlomtz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:dicarlomtz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dicarlomtz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
