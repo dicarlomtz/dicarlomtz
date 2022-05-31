@@ -1,44 +1,24 @@
-## Hi there! My name is Di Carlo Martínez.
-<p>Computer systems engineering last year student, passionate about achieving goals with the help of different work tools that guarantee success efficiently, improving and acquiring skills while I grow professionally with each challenge.</p>
-<div align="center">
- <img  style="border-radius:50%" width="200px" src="https://avatars.githubusercontent.com/u/67888776?v=4"/>
-  
-  <div>
-    Check my portfolio:
-<a color="white" href="https://dicarlomtz.github.io/dicarlomtzweb/"  ><img align="center" alt="Spring" height="30" width="40" src="https://icongr.am/jam/arrow-square-up-right-f.svg?size=148&color=0c0404"> </a>
-    
-  </div>
- </div>
- 
-<br>
+# 💫About Me :
+Computer systems engineering last year student, passionate about achieving goals with the help of different work tools that guarantee success efficiently, improving and acquiring skills while I grow professionally with each challenge.
 
-<div align="center">
-  <a href="https://github.com/dicarlomtz">
- 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dicarlomtz&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Git" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
-   <img align="center" alt="GitHub" height="30" width="40" src="https://icongr.am/devicon/github-original-wordmark.svg?size=128&color=currentColor">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Bootstrap" height="30" width="40" src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=148&color=0c0404">
-   <img align="center" alt="jQuery" height="30" width="40" src="https://icongr.am/devicon/jquery-original-wordmark.svg?size=128&color=currentColor">
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Java" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=148&color=0c0404">
-  <img align="center" alt="Python" height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">
- <img align="center" alt="MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=148&color=0c0404">
-  
+## 🌐Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dicarlomtz) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dicarlomtz)[![GitHub](https://img.shields.io/badge/Github-%230077B5.svg?logo=github&logoColor=white)]([https://linkedin.com/in/dicarlomtz](https://github.com/dicarlomtz/))
 
-</div>
-  
-  ##
- 
-<div align="center"> 
-  <a href="https://twitter.com/dicarlomtz" target="_blank"><img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href = "mailto:dicarlomtz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/dicarlomtz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+# 💻Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=dicarlomtz&theme=onedark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dicarlomtz&theme=onedark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dicarlomtz&theme=onedark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dicarlomtz&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+
+### ✍️
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 😂
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=dicarlomtz&icon=5&color=6)](https://visitcount.itsvg.in)
