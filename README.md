@@ -1,5 +1,6 @@
 # 💫 About Me:
-Passionate about achieving goals with the help of different work tools and people that lead us to success efficiently, improving and acquiring skills while growing professionally with each challenge.
+About
+I am deeply passionate about leveraging cutting-edge work tools and collaborating with diverse teams to efficiently achieve ambitious goals, while continuously acquiring and refining my skills. Each challenge presents a valuable opportunity for professional growth, and I am committed to maximizing my potential and driving success.
 
 
 ## 🌐 Socials:
