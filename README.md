@@ -9,15 +9,31 @@ I am deeply passionate about leveraging cutting-edge work tools and collaboratin
 
 # 💻 Skills:
 **Currently using:** JavaScript, TypeScript, Python, PHP, React (Ecosystem), Laravel, MySQL, DynamoDB, Docker, Linux, Git/GitHub.
+
+
 **Have used:** Ruby, Ruby on Rails, C/C++, Java (web & desktop), Hibernate, HTML5, CSS3, Bootstrap, JQuery.
+
+
 **Learning:** C# & .NET (ASP.NET Core)
+
+
 **Languages:** English & Spanish
+
+
 **Open Mindedness:** Seeking and considering diverse perspectives and approaches, with a willingness to implement valuable insights from
 others.
+
+
 **Problem solving:** Committed to continuously improving my problem-solving skills through rigorous coding exercises and challenges.
+
+
 **Communication:** Clear articulation of ideas and active listening, enable me to grasp complex situations and provide appropriate responses.
+
+
 **Quick Learning:** Committed to continuous learning and staying up-to-date with the latest trends and developments in the tech industry,
 leveraging a versatile and receptive approach to quickly acquire new skills and knowledge.
+
+
 **Teamwork:** Dedicated to fostering a collaborative team environment that supports individual excellence and ensures successful task
 completion.
 ---
