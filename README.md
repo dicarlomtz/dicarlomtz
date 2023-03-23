@@ -5,6 +5,8 @@ I am deeply passionate about leveraging cutting-edge work tools and collaboratin
 
 ## 🌐 Socials:
 [Linkedin](https://linkedin.com/in/dicarlomtz)
+
+
 [Portfolio Website](https://dicarlomtz.netlify.app/)
 
 # 💻 Skills:
